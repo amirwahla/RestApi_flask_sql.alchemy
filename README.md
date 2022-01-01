@@ -21,7 +21,7 @@ $ python
 python app.py
 ```
 
-## Endpoints
+## Endpoint
 
 * GET     /product
 * GET     /product/:id
